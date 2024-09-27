@@ -17,7 +17,7 @@
  * under the License.
  */
 
-package seddon
+package slack_plugin_seddon
 
 import (
 	"bytes"
@@ -34,8 +34,8 @@ import (
 	"strconv"
 	"strings"
 	"time"
-
-	"github.com/Anan1225/incubator-answer-plugins/user-center-seddon/i18n"
+	
+	"github.com/SeddonShen/slack_plugin_seddon/i18n"
 	"github.com/apache/incubator-answer-plugins/util"
 	"github.com/apache/incubator-answer/plugin"
 	"github.com/gin-gonic/gin"

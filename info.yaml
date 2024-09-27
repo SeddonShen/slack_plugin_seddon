@@ -15,8 +15,8 @@
 # specific language governing permissions and limitations
 # under the License.
 
-slug_name: user_center_seddon
+slug_name: slack_plugin_seddon
 type: importer
 version: 0.0.1
 author: Seddon
-link: https://github.com/apache/incubator-answer-plugins/tree/main/user-center-seddon
+link: https://github.com/SeddonShen/slack_plugin_seddon
